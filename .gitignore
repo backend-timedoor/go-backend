@@ -1,0 +1,6 @@
+# macOS system files
+.DS_Store
+
+#claude code
+/evals
+/go-backend-workspace

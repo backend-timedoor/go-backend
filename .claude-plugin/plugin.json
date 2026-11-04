@@ -1,0 +1,5 @@
+{
+  "name": "go-backend",
+  "version": "0.1.0",
+  "description": "Go backend engineering skill: Clean Architecture, TDD, baseline security, repository-aware conventions."
+}
